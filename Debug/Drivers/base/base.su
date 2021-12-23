@@ -1,0 +1,4 @@
+base.c:3:6:delay_init	16	static
+base.c:8:6:delay_ns	16	static
+base.c:13:6:delay_us	40	static
+base.c:34:6:delay_ms	24	static
